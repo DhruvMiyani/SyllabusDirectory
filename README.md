@@ -7,6 +7,11 @@ A new Flutter project.
 
 This app helps students to find open source academic resources.
 
+# Introduction
+
+Students are facing difficulty while searching for the study material online, there are many sources some of them are relevant and some are not. so, we ended up with one solution of making a mobile application which will alternatively provide useful open-source academic material like reference e-books, video tutorial links, academic websites at one place with better UI (user interface).
+
+
 ## Objective
 main aim of this project is to provides navigate to different forms of relevant academic material at one place in order to save learners’ precious time with eye-catching UI (User Interface).
 

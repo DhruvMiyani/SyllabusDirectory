@@ -18,6 +18,9 @@ https://user-images.githubusercontent.com/54111873/118107772-cdc06280-b3fc-11eb-
 
 ## Resposiveness
 
+This app is very responsive for different oprating system and devices
+
+
 ![flutterappp (1)](https://user-images.githubusercontent.com/54111873/118108077-2f80cc80-b3fd-11eb-9fca-6c975c998ef8.jpg)
 ![tablet (3)](https://user-images.githubusercontent.com/54111873/118108730-f9901800-b3fd-11eb-99f0-e8419473b32a.jpg)
 ![medium_phone (1)](https://user-images.githubusercontent.com/54111873/118109184-7e7b3180-b3fe-11eb-8fd7-accd6a3fd687.jpg)

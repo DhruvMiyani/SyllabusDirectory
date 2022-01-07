@@ -18,7 +18,7 @@ main aim of this project is to provides navigate to different forms of relevant 
 
 ## Demo
 
-https://user-images.githubusercontent.com/54111873/118107772-cdc06280-b3fc-11eb-933f-84cb8b8ada6b.mp4
+https://user-images.githubusercontent.com/54111873/148558926-75ba3d1c-2918-4892-9c27-95642e9e7829.mp4
 
 
 ## Resposiveness

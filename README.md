@@ -13,7 +13,7 @@ Students are facing difficulty while searching for the study material online, th
 
 
 ## Objective
-main aim of this project is to provides navigate to different forms of relevant academic material at one place in order to save learners’ precious time with eye-catching UI (User Interface).
+Main aim of this project is to provides navigatation to different forms of relevant academic material at one place in order to save learners’ precious time with eye-catching UI (User Interface).
 
 
 ## Demo
